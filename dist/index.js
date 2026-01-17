@@ -14811,8 +14811,8 @@ async function sync(inputs) {
   // Since we need to modify the commit time, we can't use the default settings for the
   // authenticated user.
   const commitInfo = {
-    name: "Arin Balyan",
-    email: "arinbalyan19@gmail.com",
+    name: "Yashh Nandwani",
+    email: "yashnandwani47@gmail.com",
   };
   for (const commit of commits.data) {
     if (
